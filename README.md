@@ -1,1 +1,9 @@
 # nacka
+
+# pytest
+
+# pydantic
+
+# assertpy
+
+# 
